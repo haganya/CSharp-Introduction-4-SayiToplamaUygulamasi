@@ -1,0 +1,6 @@
+C:\Users\Echo\OneDrive\Hakan Csharp\20170805-4Con_sayilaritopla\20170805-4Con_sayilaritopla\bin\Debug\20170805-4Con_sayilaritopla.exe.config
+C:\Users\Echo\OneDrive\Hakan Csharp\20170805-4Con_sayilaritopla\20170805-4Con_sayilaritopla\bin\Debug\20170805-4Con_sayilaritopla.exe
+C:\Users\Echo\OneDrive\Hakan Csharp\20170805-4Con_sayilaritopla\20170805-4Con_sayilaritopla\bin\Debug\20170805-4Con_sayilaritopla.pdb
+C:\Users\Echo\OneDrive\Hakan Csharp\20170805-4Con_sayilaritopla\20170805-4Con_sayilaritopla\obj\Debug\20170805-4Con_sayilaritopla.csprojResolveAssemblyReference.cache
+C:\Users\Echo\OneDrive\Hakan Csharp\20170805-4Con_sayilaritopla\20170805-4Con_sayilaritopla\obj\Debug\20170805-4Con_sayilaritopla.exe
+C:\Users\Echo\OneDrive\Hakan Csharp\20170805-4Con_sayilaritopla\20170805-4Con_sayilaritopla\obj\Debug\20170805-4Con_sayilaritopla.pdb
